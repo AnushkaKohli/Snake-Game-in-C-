@@ -35,7 +35,11 @@ This is a classic Snake Game implemented in C++ using console-based input and ou
 
 ## Demo
 
-[Click here](<link to your video demo>) to watch a short video demonstrating the gameplay.
+Here is a short video demonstrating the gameplay.
+
+
+https://github.com/AnushkaKohli/Snake-Game-in-C-/assets/102284552/533c4630-7785-4450-a385-9882abc6a255
+
 
 ## Requirements
 
